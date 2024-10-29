@@ -3,11 +3,17 @@
 HEFTIE stands for "Handling Enormous Files from Tomography Imaging Experiments".
 We are an EU funded project, which aims to:
 
-> [!IMPORTANT]
-> **"develop a comprehensive digital textbook and new software tools for working with chunked 3D imaging datasets"**
+> **develop a comprehensive digital textbook and new software tools for working with chunked 3D imaging datasets**
 
 For a high level, public facing view of our project, see our [project page on the funder website](https://www.oscars-project.eu/projects/heftie-handling-enormous-files-tomographic-imaging-experiments).
 This organisation README gives some more technical overview of what we are doing, targeted at existing chunked data communities so you can understand what we're up to.
+
+### Who are we?
+
+[@dstansby](https://github.com/dstansby/) is the project lead, and will be writing the digital texbook.
+Python tools and benchmarking will be worked on by a couple of folks from UCL's [Centre for Advanced Research Computing.](https://www.ucl.ac.uk/advanced-research-computing)
+Visualisation improvements will be done by scalableminds, led by [@normanrz](https://github.com/normanrz).
+
 
 ### What are we doing?
 
@@ -39,8 +45,8 @@ The goals of this work package are to:
 Instead of developing new tools, we want to help improve and fix existing tools.
 Exactly what tools we work on will be guided by gaps we find when completing the digital textbook in WP1.
 
-> [!IMPORTANT]
-> **We would also love feedback from the 3D imaging community on what tools they want to see developed!**
+> [!TIP]
+> **We would love feedback from the 3D imaging community on what tools they want to see developed!**
 
 Current items on our TODO list include:
 - Converting sub-volumes back and forth between 'tradditional' file formats (e.g., nifti, TIFF, JPEG)
@@ -52,7 +58,13 @@ Please email [@dstansby](https://github.com/dstansby) with your thoughts or sugg
 
 #### WP3: Visualisation and annotation
 
+In this work package we will improve the existing open source [webknossos](https://webknossos.org) tool to add some more features for 3D datasets.
+These improvements include:
 
+- Region growing annotation tool in 3D
+- Visualisation/interpolation/segmentation along tilted planes
+- Expanding skeletons to segmentations
+- Volume rendering in the 3D viewport
 
 ### How are we funded?
 
