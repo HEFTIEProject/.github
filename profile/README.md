@@ -5,7 +5,7 @@
 HEFTIE stands for "Handling Enormous Files from Tomography Imaging Experiments".
 We are an EU funded project, which aims to:
 
-> [!IMPORTANT]  
+> [!IMPORTANT]
 > **"develop a comprehensive digital textbook and new software tools for working with chunked 3D imaging datasets"**
 
 For a high level, public facing view of our project, see our [project page on the funder website](https://www.oscars-project.eu/projects/heftie-handling-enormous-files-tomographic-imaging-experiments).
@@ -22,6 +22,10 @@ Our work is split into three work pacakges
 #### WP3: Visualisation and annotation
 
 ### How are we funded?
+
+This project is funded by the [OSCARS project](https://oscars-project.eu/), which has received funding from the European Commission’s Horizon Europe Research and Innovation programme under grant agreement No. 101129751.
+
+![OSCARS and EU logos](images/OSCARS-logo-EUflag.png)
 
 <!--
 
