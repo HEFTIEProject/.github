@@ -1,7 +1,5 @@
 ## Welcome to the HEFTIE project 🐘🧊
 
-### What is HEFTIE?
-
 HEFTIE stands for "Handling Enormous Files from Tomography Imaging Experiments".
 We are an EU funded project, which aims to:
 
@@ -34,7 +32,27 @@ This is being developed at [HEFTIEProject/heftie-book](https://github.com/HEFTIE
 
 #### WP2: Tools and Benchmarks
 
+The goals of this work package are to:
+1. Develop a set of benchmarks to understand the best parameters for creating OME-zarr datasets.
+2. Work on Python tools for working with OME-zarr datasets.
+
+Instead of developing new tools, we want to help improve and fix existing tools.
+Exactly what tools we work on will be guided by gaps we find when completing the digital textbook in WP1.
+
+> [!IMPORTANT]
+> **We would also love feedback from the 3D imaging community on what tools they want to see developed!**
+
+Current items on our TODO list include:
+- Converting sub-volumes back and forth between 'tradditional' file formats (e.g., nifti, TIFF, JPEG)
+- Caching remote data stores locally on disk
+- Isotropically downsampling 3D images
+
+But this is a tentative list - we would love to hear from you!
+Please email [@dstansby](https://github.com/dstansby) with your thoughts or suggestions!
+
 #### WP3: Visualisation and annotation
+
+
 
 ### How are we funded?
 
