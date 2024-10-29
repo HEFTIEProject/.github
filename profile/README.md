@@ -13,9 +13,24 @@ This organisation README gives some more technical overview of what we are doing
 
 ### What are we doing?
 
-Our work is split into three work pacakges
+Our work is split into three work packages:
 
 #### WP1: Digital textbook
+
+The goal of this work package is to write a digital textbook for working with huge 3D imaging datasets.
+This textbook wil explain how to work with huge 3D imaging datsets using modern data formats, focusing on explaining how chunked data formats work, and how to use them with practical examples.
+Our examples will use the scientific Python stack with the [zarr](https://zarr.dev/) and [OME-zarr](https://ngff.openmicroscopy.org/index.html) data formats, and [dask](https://docs.dask.org/en/stable/) for chunked processing.
+The draft chapter headings are:
+
+1. Chunked dataset theory
+2. Choosing parameters for chunked dataset creation
+3. Converting between chunked datasets and 'traditional' file formats (e.g., TIFF, JPEG2000, NIfTI)
+4. Downsampling chunked datasets
+5. Working with remotely stored chunked datasets
+6. Simple visualisation of chunked datasets
+7. Simple analysis of chunked datasets
+
+This is being developed at [HEFTIEProject/heftie-book](https://github.com/HEFTIEProject/heftie-textbook), and a live preview is available at https://heftie-textbook.readthedocs.io.
 
 #### WP2: Tools and Benchmarks
 
