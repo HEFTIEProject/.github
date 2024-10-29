@@ -1,4 +1,4 @@
-## Welcome to the HEFTIE project 🐘
+## Welcome to the HEFTIE project 🐘🧊
 
 ### What is HEFTIE?
 
