@@ -10,9 +10,9 @@ This organisation README gives some more technical overview of what we are doing
 
 ### Who are we?
 
-[@dstansby](https://github.com/dstansby/) is the project lead, and will be writing the digital texbook.
-Python tools and benchmarking will be worked on by a couple of folks from UCL's [Centre for Advanced Research Computing.](https://www.ucl.ac.uk/advanced-research-computing)
-Visualisation improvements will be done by scalableminds, led by [@normanrz](https://github.com/normanrz).
+- [@dstansby](https://github.com/dstansby/) is the project lead, and will be writing the digital texbook.
+- Software engineers from UCL's [Centre for Advanced Research Computing.](https://www.ucl.ac.uk/advanced-research-computing) will be working on Python tools and benchmarking.
+- [@scalableminds](https://github.com/scalableminds) will be working on visualisation improvements, led by [@normanrz](https://github.com/normanrz).
 
 
 ### What are we doing?
